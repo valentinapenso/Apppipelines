@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/covecys/Test%20Penso/_apis/build/status/valentinapenso.Apppipelines?branchName=master)](https://dev.azure.com/covecys/Test%20Penso/_build/latest?definitionId=10&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
